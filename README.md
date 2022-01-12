@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BashirIrshad from Afghanistan
-- 👀 I’m interested in writing codes for the porpuse of programming.
-- 🌱 I’m currently learning react.js 
+- 👀 I’m interested in writing codes.
+- 🌱 I’m always learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: whatsUp: +93708863259 , email: m.bashir44444@gmail.com
 
